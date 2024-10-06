@@ -65,7 +65,5 @@
 
         <?php }?>
     </table>
-        
-
 </body>
 </html>
